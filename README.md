@@ -65,7 +65,7 @@ If there’s any workstation account/password problem, please directly contact t
 1. Derive the falling and rising delays of the gate assuming *h* = 0. (consider the worst case) 
 3. **(10%)** Determine the activity factors at each node in the following circuit assuming the input probabilities  = = = = 0.5.  (be careful with the dependency) 
 
-   ![image]([Aspose.Words.7faa3009-5f86-483b-ae22-53f8b2f7016e.002.png](https://github.com/ptchan/Integrated-Circuit-Design-Project1/blob/main/Aspose.Words.7faa3009-5f86-483b-ae22-53f8b2f7016e.002.png))
+   ![image](https://github.com/ptchan/Integrated-Circuit-Design-Project1/blob/main/Aspose.Words.7faa3009-5f86-483b-ae22-53f8b2f7016e.002.png)
 
 TA：陳帝宇，EE2-329 
 
