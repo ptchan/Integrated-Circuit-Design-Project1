@@ -2,7 +2,7 @@
 
 Due on 10/19/2023, 9:20 online 
 
-Plagiarism is not allowed. 10% penalty for each day of delay.![](Aspose.Words.7faa3009-5f86-483b-ae22-53f8b2f7016e.001.png)
+Plagiarism is not allowed. 10% penalty for each day of delay.![]([Aspose.Words.7faa3009-5f86-483b-ae22-53f8b2f7016e.001.png](https://github.com/ptchan/Integrated-Circuit-Design-Project1/blob/main/Aspose.Words.7faa3009-5f86-483b-ae22-53f8b2f7016e.001.png))
 
 In this homework, you will learn the following:  
 
