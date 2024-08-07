@@ -1,7 +1,5 @@
 ***IC Design***  ***Homework # 2***
 
-Due on 10/19/2023, 9:20 online 
-
 Plagiarism is not allowed. 10% penalty for each day of delay.![image]([Aspose.Words.7faa3009-5f86-483b-ae22-53f8b2f7016e.001.png](https://github.com/ptchan/Integrated-Circuit-Design-Project1/blob/main/Aspose.Words.7faa3009-5f86-483b-ae22-53f8b2f7016e.001.png))
 
 In this homework, you will learn the following:  
@@ -67,12 +65,3 @@ If there’s any workstation account/password problem, please directly contact t
 
    ![image](https://github.com/ptchan/Integrated-Circuit-Design-Project1/blob/main/Aspose.Words.7faa3009-5f86-483b-ae22-53f8b2f7016e.002.png)
 
-TA：陳帝宇，EE2-329 
-
-TA email: tp62u4m3@gmail.com 
-
-HW2 Office hours:  10/16 14:00-16:00 @ EE2-329 
-
-10/18 14:30-16:30 @ EE2-329 
-
-If you have no time during office hours, you can email TA to discuss another time for an appointment.
